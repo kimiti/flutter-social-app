@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745091597344",
+    "firebase_url": "https://fluttershare-34da2.firebaseio.com",
+    "project_id": "fluttershare-34da2",
+    "storage_bucket": "fluttershare-34da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745091597344:android:fb4db4686f4fddd4ab2845",
+        "android_client_info": {
+          "package_name": "com.kimiti.socialappversion_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745091597344-k47jllsj6l5kpkf0qk845ckk50ao9etd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kimiti.socialappversion_2",
+            "certificate_hash": "07256c0ebe69626ae8cf680c32d6bf3158c2b19e"
+          }
+        },
+        {
+          "client_id": "745091597344-u7kcndfvl5ngl82vbr5dlvta67k2r791.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-kyr6bLwYyirX__Xvv2TVS18F8_-cksw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745091597344-u7kcndfvl5ngl82vbr5dlvta67k2r791.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
